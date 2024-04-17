@@ -1,0 +1,24 @@
+{
+  "token": "DISCORD_BOT_TOKEN",
+  "webhook": {
+    "id": "WEBHOOK_ID",
+    "token": "WEBHOOK_TOKEN"
+  },
+  "interval": 60000,
+  "servers": [
+    {
+      "alias": "TCP SERVICE 1",
+      "address": "1.1.1.1:80",
+      "online": true,
+      "message": "",
+      "ping": "<@123456789012345678>"
+    },
+    {
+      "alias": "TCP SERVICE 2",
+      "address": "8.8.8.8:42069",
+      "online": true,
+      "message": "",
+      "ping": "<@&123456789012345678>"
+    }
+  ]
+}

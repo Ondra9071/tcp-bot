@@ -1,0 +1,24 @@
+{
+  "token": "Nzk3NTE2NDAwNTMxOTk2NzAy.GzJs9N.BxDXE6oKSReqwzw2BWhmKqBW7_dzsnxewG2ze0",
+  "webhook": {
+    "id": "1230039626115321937",
+    "token": "lMxNiHP8VC1emNAWTZkS4i1A4GjNhAKDrO3nl7yZ8ZqlHLjo8Pf1A00CEuWoGhOfJy6I"
+  },
+  "interval": 5000,
+  "servers": [
+    {
+      "alias": "MINECRAFT SERVER",
+      "address": "173.249.39.148:25565",
+      "online": true,
+      "message": "",
+      "ping": "<@570547780804804611>"
+    },
+    {
+      "alias": "WEBSITE",
+      "address": "75.119.136.218:80",
+      "online": true,
+      "message": "",
+      "ping": "<@&1230046419876839474>"
+    }
+  ]
+}}
